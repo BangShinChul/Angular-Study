@@ -25,3 +25,9 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+-----
+
+# BSC's Angular Study Project
+2018.06.10 시작
+https://moon9342.github.io/angular-lecture-component 참고
